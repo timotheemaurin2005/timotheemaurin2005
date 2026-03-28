@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Timothée%20Maurin&fontSize=42&fontColor=e6edf3&fontAlignY=32&desc=Founder%20@TempThreads%20%7C%20AI%20Engineer&descSize=18&descAlignY=52&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Timothée%20Maurin&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Founder%20@TempThreads%20%7C%20AI%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=40&lines=Data+Science+%40+UCL+%7C+Agentic+AI+%E2%80%A2+RAG+Systems+%E2%80%A2+LLM+Orchestration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&height=35&lines=Data+Science+%40+UCL+%7C+Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,8 +17,6 @@
 </div>
 
 ---
-
-<br/>
 
 ## `$ whoami`
 
@@ -35,64 +31,62 @@ class Tim:
         self.citizenship = ["UK", "FR", "US"]
 ```
 
-<br/>
-
 ## ⚡ What I'm Building
 
 I'm obsessed with **agentic AI** — systems that don't just call an LLM in a loop, but actually *plan, route, retrieve, verify, and self-correct*. From founding a startup with multi-agent LLM pipelines to building RAG systems that catch when the Federal Reserve changes its mind, I care about AI that can explain every decision it made and prove it didn't hallucinate.
-
-<br/>
 
 ## 🏗️ Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏦 [Agentic Financial RAG](https://github.com/timotheemaurin2005/Agentic-Financial-Compliance-and-Risk-RAG)
-**LangGraph • Pinecone • GPT-4o • FastAPI • RAGAS**
 
-Agentic RAG system that analyses Federal Reserve FOMC documents to detect monetary policy shifts and contradictions across meetings. 5-node LangGraph state machine with self-verification, dual embeddings, metadata-filtered retrieval, and quantitative RAGAS evaluation across 30 gold-standard questions.
+**LangGraph · Pinecone · GPT-4o · FastAPI · RAGAS**
+
+Agentic RAG system that analyses FOMC documents to detect monetary policy shifts and contradictions. 5-node LangGraph state machine with self-verification, dual embeddings, and RAGAS evaluation.
 
 `Agentic AI` `LangGraph` `Pinecone` `FastAPI` `RAGAS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 [AI YouTube Shorts Generator](https://github.com/timotheemaurin2005/AI_Shorts_Generator)
-**Multi-Agent • Content Pipeline • Automation**
 
-Automated pipeline for generating YouTube Shorts content using AI agents for scriptwriting, visual generation, and video assembly.
+**Multi-Agent · Content Pipeline · Automation**
+
+Automated pipeline for generating YouTube Shorts using AI agents for scriptwriting, visual generation, and video assembly.
 
 `Python` `AI Agents` `Automation` `Content Generation`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 👗 TempThreads
+
 **AI-Powered Fashion Startup | Founder**
 
-Cross-platform fashion & travel assistant that transforms real-time weather into personalised outfit recommendations. Multi-agent LLM pipeline (Gemini, OpenAI, Anthropic, open-source models). 100+ users, 1,500+ A/B experiments, 12% accuracy gain, 18% satisfaction improvement.
+Cross-platform fashion & travel assistant using multi-agent LLM pipelines (Gemini, OpenAI, Anthropic). 100+ users, 1,500+ A/B experiments, 12% accuracy gain, 18% satisfaction improvement.
 
 `Flutter` `Firebase` `GCP` `LangChain` `Multi-Agent LLM`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ♟️ Chess Engine & Coaching
+
 **FIDE Rated 1903 | Head Coach**
 
-Competitive chess player and head coach at Wallace Chess, delivering coaching to classes of 10-25 students (ages 4-16) across London schools. Applying pattern recognition and strategic thinking from the board to algorithm design.
+Competitive chess player and head coach at Wallace Chess, coaching classes of 10-25 students (ages 4-16) across London schools.
 
 `Strategy` `Pattern Recognition` `Coaching`
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ## 💼 Experience
 
@@ -104,8 +98,6 @@ Competitive chess player and head coach at Wallace Chess, delivering coaching to
 
 **📊 Xiatech** — Data Science Intern
 > Power BI dashboards with BigQuery integration. Customer segmentation via k-means clustering. Regression modelling and algorithm design.
-
-<br/>
 
 ## 🛠️ Tech Stack
 
@@ -170,8 +162,6 @@ Competitive chess player and head coach at Wallace Chess, delivering coaching to
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
-
-<br/>
 
 ## 📫 Connect
 
