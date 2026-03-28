@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Data+Science+%40+UCL+%7C+MSc+Machine+Learning+Offer+Holder;Agentic+AI+%E2%80%A2+RAG+Systems+%E2%80%A2+LLM+Orchestration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=40&lines=Data+Science+%40+UCL+%7C+Agentic+AI+%E2%80%A2+RAG+Systems+%E2%80%A2+LLM+Orchestration)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,10 +27,7 @@
 ```python
 class Tim:
     def __init__(self):
-        self.education = {
-            "current": "BSc Data Science @ UCL (First Class)",
-            "next":    "MSc Machine Learning @ UCL → Sep 2026 (Offer Holder)"
-        }
+        self.education = "BSc Data Science @ UCL (First Class)"
         self.role      = "Founder @ TempThreads | AI Engineer"
         self.passion   = "Agentic AI systems that reason, not just retrieve"
         self.chess_elo = 1903  # FIDE rated & coach
@@ -62,7 +59,7 @@ Agentic RAG system that analyses Federal Reserve FOMC documents to detect moneta
 </td>
 <td width="50%">
 
-### 🎬 AI YouTube Shorts Generator
+### 🎬 [AI YouTube Shorts Generator](https://github.com/timotheemaurin2005/AI_Shorts_Generator)
 **Multi-Agent • Content Pipeline • Automation**
 
 Automated pipeline for generating YouTube Shorts content using AI agents for scriptwriting, visual generation, and video assembly.
@@ -74,7 +71,7 @@ Automated pipeline for generating YouTube Shorts content using AI agents for scr
 <tr>
 <td width="50%">
 
-### 👗 [TempThreads](https://github.com/timotheemaurin2005)
+### 👗 TempThreads
 **AI-Powered Fashion Startup | Founder**
 
 Cross-platform fashion & travel assistant that transforms real-time weather into personalised outfit recommendations. Multi-agent LLM pipeline (Gemini, OpenAI, Anthropic, open-source models). 100+ users, 1,500+ A/B experiments, 12% accuracy gain, 18% satisfaction improvement.
@@ -125,34 +122,52 @@ Competitive chess player and head coach at Wallace Chess, delivering coaching to
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+**Statistics & Data Science**
+
+![Regression](https://img.shields.io/badge/Regression_Modelling-4B8BBE?style=flat-square)
+![Probability](https://img.shields.io/badge/Probability_&_Inference-4B8BBE?style=flat-square)
+![Stochastic Processes](https://img.shields.io/badge/Stochastic_Processes-4B8BBE?style=flat-square)
+![Conformal Prediction](https://img.shields.io/badge/Conformal_Prediction-4B8BBE?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting_(ARIMA/SARIMA)-4B8BBE?style=flat-square)
+![Clustering](https://img.shields.io/badge/Clustering_(K--Means)-4B8BBE?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-4B8BBE?style=flat-square)
+![Decision & Risk](https://img.shields.io/badge/Decision_&_Risk-4B8BBE?style=flat-square)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 **Infrastructure & Data**
 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Dev Tools**
+**Dev Tools & Platforms**
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
