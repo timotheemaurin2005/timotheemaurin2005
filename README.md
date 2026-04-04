@@ -52,13 +52,13 @@ Agentic RAG system that analyses FOMC documents to detect monetary policy shifts
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [AI YouTube Shorts Generator](https://github.com/timotheemaurin2005/AI_Shorts_Generator)
+### 📊 [Conformal Prediction Playground](https://github.com/timotheemaurin2005/Conformal-Prediction-Playground) · [🔗 Live Demo](https://huggingface.co/spaces/TimotheeMaurin/Conformal-Prediction-Playground)
 
-**Multi-Agent · Content Pipeline · Automation**
+**Python · FastAPI · React · Antigravity · HuggingFace Spaces**
 
-Automated pipeline for generating YouTube Shorts using AI agents for scriptwriting, visual generation, and video assembly.
+Interactive prediction intervals with finite-sample coverage guarantees. 5-agent Antigravity pipeline comparing Two-Piece Modal CP (dissertation method), OLS CP, and CQR. 3.9% efficiency gain on Wage (n=3,000). Deployed live.
 
-`Python` `AI Agents` `Automation` `Content Generation`
+`Conformal Prediction` `Agentic AI` `FastAPI` `React` `Statistics`
 
 </td>
 </tr>
@@ -76,6 +76,19 @@ Cross-platform fashion & travel assistant using multi-agent LLM pipelines (Gemin
 </td>
 <td width="50%" valign="top">
 
+### 🎬 [AI YouTube Shorts Generator](https://github.com/timotheemaurin2005/AI_Shorts_Generator)
+
+**Multi-Agent · Content Pipeline · Automation**
+
+Automated pipeline for generating YouTube Shorts using AI agents for scriptwriting, visual generation, and video assembly.
+
+`Python` `AI Agents` `Automation` `Content Generation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### ♟️ Chess Engine & Coaching
 
 **FIDE Rated 1903 | Head Coach**
@@ -84,6 +97,8 @@ Competitive chess player and head coach at Wallace Chess, coaching classes of 10
 
 `Strategy` `Pattern Recognition` `Coaching`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
