@@ -52,6 +52,19 @@ Agentic RAG system that analyses FOMC documents to detect monetary policy shifts
 </td>
 <td width="50%" valign="top">
 
+### 📈 [S&P500 Multi-Factor Equity Model](https://github.com/timotheemaurin2005/sp500-factor-model) · [🔗 Live App](https://sp500-factor-model-tm.streamlit.app)
+
+**Python · pandas · yfinance · Streamlit · Plotly**
+
+Fully deployed multi-factor equity model across 498 S&P500 constituents (2024–2025). Implements Momentum, Value, Quality, Size, and Low Volatility with skip-1 momentum, independent cross-sectional z-scoring, and monthly quintile backtesting. Momentum (+0.83 Sharpe) and Quality (+1.17 Sharpe) were the only positive factors — consistent with the large-cap growth dominated market regime.
+
+`Quantitative Finance` `Factor Model` `Backtesting` `Streamlit` `pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 [Conformal Prediction Playground](https://github.com/timotheemaurin2005/Conformal-Prediction-Playground) · [🔗 Live Demo](https://huggingface.co/spaces/TimotheeMaurin/Conformal-Prediction-Playground)
 
 **Python · FastAPI · React · Antigravity · HuggingFace Spaces**
@@ -61,8 +74,6 @@ Interactive prediction intervals with finite-sample coverage guarantees. 5-agent
 `Conformal Prediction` `Agentic AI` `FastAPI` `React` `Statistics`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 👗 TempThreads
@@ -74,6 +85,8 @@ Cross-platform fashion & travel assistant using multi-agent LLM pipelines (Gemin
 `Flutter` `Firebase` `GCP` `LangChain` `Multi-Agent LLM`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎬 [AI YouTube Shorts Generator](https://github.com/timotheemaurin2005/AI_Shorts_Generator)
@@ -85,8 +98,6 @@ Automated pipeline for generating YouTube Shorts using AI agents for scriptwriti
 `Python` `AI Agents` `Automation` `Content Generation`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ♟️ Chess Engine & Coaching
@@ -97,8 +108,6 @@ Competitive chess player and head coach at Wallace Chess, coaching classes of 10
 
 `Strategy` `Pattern Recognition` `Coaching`
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -139,6 +148,8 @@ Competitive chess player and head coach at Wallace Chess, coaching classes of 10
 ![Clustering](https://img.shields.io/badge/Clustering_(K--Means)-4B8BBE?style=flat-square)
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-4B8BBE?style=flat-square)
 ![Decision & Risk](https://img.shields.io/badge/Decision_&_Risk-4B8BBE?style=flat-square)
+![Factor Models](https://img.shields.io/badge/Factor_Models-4B8BBE?style=flat-square)
+![Backtesting](https://img.shields.io/badge/Backtesting-4B8BBE?style=flat-square)
 
 **Languages**
 
@@ -175,6 +186,7 @@ Competitive chess player and head coach at Wallace Chess, coaching classes of 10
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </div>
 
