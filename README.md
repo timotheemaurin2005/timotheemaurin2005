@@ -1,14 +1,15 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Timothée%20Maurin&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Founder%20@TempThreads%20%7C%20AI%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Timothée%20Maurin&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Technology%20Analyst%20%40BlackRock%20AWT%20%7C%20Founder%20%40TempThreads&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&height=35&lines=Data+Science+%40+UCL+%7C+Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&height=35&lines=Technology+Analyst+%40BlackRock+AWT;Founder+%40TempThreads;Data+Science+%40+UCL+%7C+First+Class+Honours;Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Quick badges -->
+<a href="https://www.blackrock.com/aladdin"><img src="https://img.shields.io/badge/BlackRock_AWT-Technology_Analyst-000000?style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.ucl.ac.uk/"><img src="https://img.shields.io/badge/UCL-BSc_Data_Science_(First_Class)-1B2A4A?style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FIDE_Chess-1903_ELO-f0d000?style=for-the-badge&logo=lichess&logoColor=black"/>
 <img src="https://img.shields.io/badge/Languages-EN_🇬🇧_|_FR_🇫🇷-blue?style=for-the-badge"/>
@@ -23,11 +24,12 @@
 ```python
 class Tim:
     def __init__(self):
-        self.education = "BSc Data Science @ UCL (First Class)"
-        self.role      = "Founder @ TempThreads | AI Engineer"
-        self.passion   = "Agentic AI systems that reason, not just retrieve"
-        self.chess_elo = 1903  # FIDE rated & coach
-        self.languages = ["English 🇬🇧", "French 🇫🇷"]  # both native
+        self.education  = "BSc Data Science @ UCL (First Class)"
+        self.role       = ["Technology Analyst @ BlackRock AWT", "Founder @ TempThreads"]
+        self.team       = "Client Delivery & Execution, London"
+        self.passion    = "Agentic AI systems that reason, not just retrieve"
+        self.chess_elo  = 1903  # FIDE rated & coach
+        self.languages  = ["English 🇬🇧", "French 🇫🇷"]  # both native
         self.citizenship = ["UK", "FR", "US"]
 ```
 
@@ -78,7 +80,7 @@ Interactive prediction intervals with finite-sample coverage guarantees. 5-agent
 
 ### 👗 TempThreads
 
-**AI-Powered Fashion Startup | Founder**
+**AI-Powered Fashion Startup | Co-Founder**
 
 Cross-platform fashion & travel assistant using multi-agent LLM pipelines (Gemini, OpenAI, Anthropic). 100+ users, 1,500+ A/B experiments, 12% accuracy gain, 18% satisfaction improvement.
 
@@ -114,7 +116,10 @@ Competitive chess player and head coach at Wallace Chess, coaching classes of 10
 
 ## 💼 Experience
 
-**🚀 TempThreads** — Founder & Product Engineer
+**🖤 BlackRock AWT (Aladdin Wealth Tech)** — Technology Analyst, Client Delivery & Execution *(Aug 2026 –)*
+> Joining the Aladdin Wealth Tech team in London, working within Client Delivery & Execution on the Aladdin platform that powers risk analytics and portfolio management for wealth managers globally.
+
+**🚀 TempThreads** — Co-Founder & Product Engineer
 > Built a cross-platform AI recommendation engine with Flutter/Firebase/GCP. Designed explainable rules-based + multi-agent systems. Ran 1,500+ controlled experiments.
 
 **🏛️ Department for Transport (GSS Fast Stream)** — Data Analyst Intern
