@@ -41,6 +41,19 @@ I'm obsessed with **agentic AI** — systems that don't just call an LLM in a lo
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🔮 Kronos — Autonomous Algorithmic Trading Engine
+
+**Python · Transformer Forecasting · Alpaca API · FastAPI**
+
+Multi-asset algorithmic trading system built on a transformer-based K-line foundation model, generating long signals from 5-minute candles with a 120-step forward horizon. Extended with a news/macro sentiment veto gate, ATR-based tail-risk stops, and a live paper-execution engine via the Alpaca API across equities (NVDA, TSLA, MSFT, AAPL, AMZN), metals (GLD, SLV), and crypto (BTC, ETH, SOL). Currently in active backtest validation — auditing for data leakage and correcting annualization methodology before trusting reported Sharpe.
+
+`Transformers` `Time Series Forecasting` `Quantitative Trading` `Alpaca API` `FastAPI`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏦 [Agentic Financial RAG](https://github.com/timotheemaurin2005/Agentic-Financial-Compliance-and-Risk-RAG)
